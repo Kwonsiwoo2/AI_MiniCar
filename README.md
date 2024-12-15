@@ -123,5 +123,9 @@ section 발표준비
 [발표 자료 - PPT](doc/GuardRover_presentation.pptx) <br>
 [발표 자료 - PDF](doc/GuardRover_presentation.pdf) <br>
 <br>
+### 👇 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Kwonsiwoo2)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%EC%8B%9C%EC%9A%B0-%EA%B6%8C-064765341/)
+
 
 [🔝맨 위로🔝](#top)
